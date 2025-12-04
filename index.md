@@ -3,8 +3,7 @@
 
 # pyenparty's Website
 
-An engaging 1-3 sentence description of your lab.
-
+歡迎來到屁眼派對!一個都是男同的天地
 {% include section.html %}
 
 ## Highlights

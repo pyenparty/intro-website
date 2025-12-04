@@ -1,13 +1,13 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
-role: principal-investigator
-affiliation: University of Colorado
+name: 郭禮德
+image: images/members/leader.jpg
+# role: principal-investigator
+affiliation: National Yang-Ming Chiao Tung University
 aliases:
   - J. Smith
   - J Smith
 links:
-  home-page: https://janesmith.com
+  home-page: 
   orcid: 0000-0001-8713-9213
 ---
 

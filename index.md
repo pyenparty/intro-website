@@ -25,15 +25,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/cup.jpg"
   link="research"
-  title="Our Research"
+  title="應用深度學習於成年男性玩具的實務應用 --- 以電動飛機杯為例"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+本研究由 「臨陣退縮」怯戰甲甲魚博士 主導，探討深度學習技術在成年男性電動飛機杯中的實務應用。透過感測回饋、行為建模與個人化控制策略，本研究展示了智慧化裝置如何大幅提升互動體驗與產品效能。研究成果凸顯 AI 與成人用品跨領域結合的創新潛力。
 
 {%
   include button.html

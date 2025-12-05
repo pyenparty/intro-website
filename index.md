@@ -33,7 +33,7 @@
 
 {% capture text %}
 
-本研究由 「臨陣退縮」怯戰甲甲魚博士 主導，探討深度學習技術在成年男性電動飛機杯中的實務應用。透過感測回饋、行為建模與個人化控制策略，本研究展示了智慧化裝置如何大幅提升互動體驗與產品效能。研究成果凸顯 AI 與成人用品跨領域結合的創新潛力。
+當互動對象擴增到一定量級後，傳統的時間管理與情感排程方法將會全面失效。被世人譽為「和平主義者」的博士成員之一以平行運算、批次處理與優先權排程等策略，打造出高效率的 SOP。其研究將探討如何維持大型異性社交網路的穩定運作。
 
 {%
   include button.html
@@ -48,7 +48,7 @@
 
 {%
   include feature.html
-  image="images/Yen.jpg"
+  image="images/Yen.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -58,12 +58,12 @@
 
 {% capture text %}
 
-當互動對象擴增到一定量級後，傳統的時間管理與情感排程方法將會全面失效。被世人「和平主義者」博士以平行運算、批次處理與優先權排程等策略，打造出高效率的 SOP。其研究將探討如何維持大型異性社交網路的穩定運作。
+黃敬群實驗室主打務實與高效率，不灌水、不硬肝，讓你能專注在真正有價值的 AI 研究上。教授指導風格友善、進度清晰、畢業風險低，非常適合想「輕鬆但不混」地準時畢業的學生。想要好環境又能安心做研究？這裡會是你的最佳選擇。
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="想要找一間能輕鬆準時畢業、研究不灌水又不肝的 AI 實驗室? 歡迎加入黃敬群實驗室"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -73,7 +73,7 @@
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/welcome.png"
   link="team"
   title="Our Team"
   text=text

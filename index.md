@@ -15,7 +15,7 @@
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See more"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -38,7 +38,7 @@
 {%
   include button.html
   link="projects"
-  text="一對多感情的平行運算與最佳化策略規劃與研究"
+  text="See more"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -50,7 +50,7 @@
   include feature.html
   image="images/Yen.png"
   link="projects"
-  title="Our Projects"
+  title="一對多感情的平行運算與最佳化策略規劃與研究"
   flip=true
   style="bare"
   text=text
@@ -63,7 +63,7 @@
 {%
   include button.html
   link="team"
-  text="想要找一間能輕鬆準時畢業、研究不灌水又不肝的 AI 實驗室? 歡迎加入黃敬群實驗室"
+  text="See more"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -75,6 +75,6 @@
   include feature.html
   image="images/welcome.png"
   link="team"
-  title="Our Team"
+  title="想要找一間能輕鬆準時畢業、研究不灌水又不肝的 AI 實驗室? 歡迎加入黃敬群實驗室"
   text=text
 %}

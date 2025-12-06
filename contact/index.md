@@ -5,7 +5,7 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-regular fa-envelope" %}加入我們
 
 屁眼派對的徵才從未停歇，至今依然以穩健而謹慎的步伐持續進行。按照既定的傳承模式，每一屆中正資工都會穩定吸納二至五名值得信任、實力堅強、能與群風契合的優秀學生。這不僅是補充新血的制度，更是維持群組生命力與文化延續的重要儀式。  
 如果你認為自己具備與群體共鳴的熱情與能力，歡迎與我們聯繫。

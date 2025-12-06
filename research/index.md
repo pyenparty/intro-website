@@ -1,16 +1,17 @@
 ---
-title: Research
+title: 歷屆課程考古區
 nav:
   order: 1
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}歷屆課程考古區
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+歷屆課程考古區是一個專門保存與整理過往課程資料的區域。在這裡，你可以找到歷年課程講義、作業、期中期末考古題以及學長姐留下的筆記與心得。這個區域不只是單純的資料庫，更像是一個知識的時光膠囊，讓新生與後來的成員能回顧、學習，並從歷史課程中吸取經驗與靈感。它承載著群組學術活動的軌跡，也讓知識得以跨屆傳承，成為每一位成員探索、挑戰與成長的寶貴資源。這是學長姐透過人脈、冒著被抓到的風險，辛苦收集而來的珍貴資料，並不對外公開，請聯繫我們以取得存取權限。
 
-{% include section.html %}
+考古區預覽[連結](https://youtu.be/dQw4w9WgXcQ?si=B9WnQMstaVLOeCwK)
+
+<!-- {% include section.html %}
 
 ## Highlighted
 
@@ -24,4 +25,4 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include list.html data="citations" component="citation" style="rich" %} -->
